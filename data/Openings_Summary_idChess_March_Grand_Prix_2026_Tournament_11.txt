@@ -1,0 +1,70 @@
+==================================================
+             CHESS OPENINGS SUMMARY REPORT
+==================================================
+Database: idChess_March_Grand_Prix_2026_Tournament_11
+Total Games Analyzed: 57
+
+--- TOP 10 MOST FREQUENT OPENINGS ---
+ 1. [A00] Irregular Openings - 4 games (7.0%)
+ 2. [B00] Queen's Fianchetto Defence, Nimzowitsch Defence - 3 games (5.3%)
+ 3. [C50] Hungarian Defence and Giuoco Pianissimo - 3 games (5.3%)
+ 4. [B02] Alekhine's Defence: Chase Variation and lines with early Nc3 - 2 games (3.5%)
+ 5. [D02] 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4 - 2 games (3.5%)
+ 6. [A01] Nimzowitsch-Larsen Opening - 2 games (3.5%)
+ 7. [D94] Grünfeld: 4 Nf3 Bg7 5 e3 - 2 games (3.5%)
+ 8. [A08] King's Indian Attack - 1 games (1.8%)
+ 9. [A28] English Opening: Four Knights Variation - 1 games (1.8%)
+10. [A30] Symmetrical English: Double Fianchetto and Hedgehog - 1 games (1.8%)
+
+
+========================================================================
+                        FREQUENCY OF OPENINGS
+========================================================================
+ECO   | Opening Name                                     | Count  | %    
+--------------------------------------------------------------------------
+A00   | Irregular Openings                               | 4      |  7.0%
+B00   | Queen's Fianchetto Defence, Nimzowitsch De...    | 3      |  5.3%
+C50   | Hungarian Defence and Giuoco Pianissimo          | 3      |  5.3%
+B02   | Alekhine's Defence: Chase Variation and li...    | 2      |  3.5%
+D02   | 1 d4 d5 2 Nf3 sidelines, including 2...Nf6...    | 2      |  3.5%
+A01   | Nimzowitsch-Larsen Opening                       | 2      |  3.5%
+D94   | Grünfeld: 4 Nf3 Bg7 5 e3                         | 2      |  3.5%
+A08   | King's Indian Attack                             | 1      |  1.8%
+A28   | English Opening: Four Knights Variation          | 1      |  1.8%
+A30   | Symmetrical English: Double Fianchetto and...    | 1      |  1.8%
+A80   | Dutch Defence: Unusual White second moves        | 1      |  1.8%
+A07   | Réti Opening: New York and Capablanca Systems    | 1      |  1.8%
+A03   | Bird's Opening with 1...d5                       | 1      |  1.8%
+A05   | Réti Opening: 1 Nf3 Nf6                          | 1      |  1.8%
+B15   | Caro-Kann: 3 Nc3: 3...g6 and 3...dxe4 4 Nx...    | 1      |  1.8%
+B10   | Caro-Kann: 2 d3 and 2 c4                         | 1      |  1.8%
+A40   | Unusual replies to 1 d4                          | 1      |  1.8%
+B21   | Sicilian: 2 f4 and Morra Gambit                  | 1      |  1.8%
+B44   | Sicilian: Taimanov: 5 Nb5                        | 1      |  1.8%
+B55   | Sicilian: 2...d6 3 d4 cxd4 4 Nxd4 Nf6 5 f3       | 1      |  1.8%
+B30   | Sicilian: 2...Nc6 3 Bb5, lines without ...g6     | 1      |  1.8%
+B22   | Sicilian: 2 c3                                   | 1      |  1.8%
+C21   | Danish Gambit                                    | 1      |  1.8%
+C34   | King's Gambit Accepted: 3 Nf3: 3...Nf6 and...    | 1      |  1.8%
+C44   | Ponziani Opening and Scotch Gambit               | 1      |  1.8%
+C39   | King's Gambit Accepted: 3 Nf3 g5 4 h4            | 1      |  1.8%
+C45   | Scotch Game                                      | 1      |  1.8%
+C47   | Scotch Four Knights and Four Knights with ...    | 1      |  1.8%
+B70   | Sicilian Dragon: 6 g3 and 6 Be2 (without a...    | 1      |  1.8%
+B34   | Sicilian: Accelerated Dragon with 5 Nc3: s...    | 1      |  1.8%
+C56   | Two Knights: 4 d4 exd4 5 0-0 Nxe4                | 1      |  1.8%
+C52   | Evans Gambit Accepted: 5 c3 Ba5                  | 1      |  1.8%
+C61   | Ruy Lopez: Bird's Defence                        | 1      |  1.8%
+C59   | Two Knights: 4 Ng5 d5 5 exd5 Na5 5 Bb5+ c6...    | 1      |  1.8%
+C64   | Ruy Lopez: Classical Defence (3...Bc5) exc...    | 1      |  1.8%
+C65   | Ruy Lopez: Berlin Defence (3...Nf6), unusu...    | 1      |  1.8%
+C66   | Ruy Lopez: Steinitz Defence                      | 1      |  1.8%
+C60   | Ruy Lopez: Unusual Black 3rd moves and 3...g6    | 1      |  1.8%
+D05   | Colle System with ...e6                          | 1      |  1.8%
+D07   | Queen's Gambit: Chigorin Defence                 | 1      |  1.8%
+D32   | Tarrasch Defence: Sidelines and lines with...    | 1      |  1.8%
+D10   | Slav Defence: 3 cxd5 (without early Nf3) a...    | 1      |  1.8%
+D50   | Queen's Gambit Declined: Dutch-Peruvian Ga...    | 1      |  1.8%
+D53   | Queen's Gambit Declined: 4 Bg5 Be7: Early ...    | 1      |  1.8%
+E04   | Open Catalan: 5 Nf3                              | 1      |  1.8%
+E60   | King's Indian: Unusual lines and Fianchett...    | 1      |  1.8%

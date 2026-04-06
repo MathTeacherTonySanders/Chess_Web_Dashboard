@@ -1,0 +1,88 @@
+================================================================================
+                      BLUNDER LESSONS PER GAME SUMMARY
+                      Database: idChess_March_Grand_Prix_2026_Tournament_11
+================================================================================
+
+GAME ID    | BLUNDERS   | PLAYERS
+--------------------------------------------------------------------------------
+51         | 14         | Abramenkov, Sergey (0) vs Vorovitskaya, Anastasiya Romanovna (0)
+20         | 10         | Orlovskiy, Roman Borisovich (0) vs Sedov, Aleksandr Andreevich (0)
+27         | 9          | Orlovskiy, Saveliy Romanovich (0) vs Dvigun, Evgeniy (0)
+5          | 8          | Orlov, Timofey Nikolaevich (0) vs Raykov, Georgiy Aleksandrovich (0)
+12         | 8          | Sedov, Aleksandr Andreevich (0) vs Yashin, Roman Antonovich (0)
+18         | 8          | Vorovitskaya, Anastasiya Romanovna (0) vs Romanenko, Vladimir Sergeevich (0)
+25         | 8          | Burov, Ilya Dmitrievich (0) vs Vorovitskaya, Anastasiya Romanovna (0)
+30         | 8          | Kuzmenko, Oleg Olegovich (0) vs Raykov, Miron Georgievich (0)
+1          | 7          | Balandin, Nikolay Nikolaevich (0) vs Romanenko, Vladimir Sergeevich (0)
+16         | 7          | Balandin, Nikolay Nikolaevich (0) vs Burov, Ilya Dmitrievich (0)
+22         | 7          | Baytuganov, Vyacheslav Igorevich (0) vs Orlov, Timofey Nikolaevich (0)
+36         | 7          | Sosin, Boris (0) vs Burov, Ilya Dmitrievich (0)
+42         | 7          | Dvigun, Evgeniy (0) vs Abramenkov, Sergey (0)
+54         | 7          | Yashin, Roman Antonovich (0) vs Pavlikhin, Dmitriy (0)
+10         | 6          | Nesonov, Bogdan (0) vs Balandin, Nikolay Nikolaevich (0)
+24         | 6          | Balandin, Nikolay Nikolaevich (0) vs Raykov, Georgiy Aleksandrovich (0)
+26         | 6          | Romanenko, Vladimir Sergeevich (0) vs Yashin, Roman Antonovich (0)
+21         | 5          | Glazunova, Kira Aleksandrovna (0) vs Nesonov, Bogdan (0)
+29         | 5          | Nesonov, Bogdan (0) vs Orlovskiy, Roman Borisovich (0)
+39         | 5          | Orlovskiy, Roman Borisovich (0) vs Kuzmenko, Oleg Olegovich (0)
+46         | 5          | Nesonov, Bogdan (0) vs Sosin, Boris (0)
+49         | 5          | Orlov, Timofey Nikolaevich (0) vs Burov, Ilya Dmitrievich (0)
+9          | 4          | Pavlikhin, Dmitriy (0) vs Sosin, Boris (0)
+19         | 4          | Yashin, Roman Antonovich (0) vs Orlovskiy, Saveliy Romanovich (0)
+23         | 4          | Abramenkov, Sergey (0) vs Sosin, Boris (0)
+33         | 4          | Vorovitskaya, Anastasiya Romanovna (0) vs Pavlikhin, Dmitriy (0)
+35         | 4          | Raykov, Georgiy Aleksandrovich (0) vs Nesonov, Bogdan (0)
+43         | 4          | Burov, Ilya Dmitrievich (0) vs Yashin, Roman Antonovich (0)
+57         | 4          | Glazunova, Kira Aleksandrovna (0) vs Orlovskiy, Roman Borisovich (0)
+4          | 3          | Sosin, Boris (0) vs Sedov, Aleksandr Andreevich (0)
+8          | 3          | Burov, Ilya Dmitrievich (0) vs Abramenkov, Sergey (0)
+11         | 3          | Raykov, Georgiy Aleksandrovich (0) vs Orlovskiy, Roman Borisovich (0)
+17         | 3          | Raykov, Georgiy Aleksandrovich (0) vs Pavlikhin, Dmitriy (0)
+37         | 3          | Yashin, Roman Antonovich (0) vs Glazunova, Kira Aleksandrovna (0)
+38         | 3          | Sedov, Aleksandr Andreevich (0) vs Orlovskiy, Saveliy Romanovich (0)
+47         | 3          | Romanenko, Vladimir Sergeevich (0) vs Orlovskiy, Saveliy Romanovich (0)
+48         | 3          | Raykov, Miron Georgievich (0) vs Glazunova, Kira Aleksandrovna (0)
+52         | 3          | Raykov, Georgiy Aleksandrovich (0) vs Dvigun, Evgeniy (0)
+53         | 3          | Sosin, Boris (0) vs Romanenko, Vladimir Sergeevich (0)
+55         | 3          | Kuzmenko, Oleg Olegovich (0) vs Sedov, Aleksandr Andreevich (0)
+6          | 2          | Romanenko, Vladimir Sergeevich (0) vs Orlov, Timofey Nikolaevich (0)
+7          | 2          | Baytuganov, Vyacheslav Igorevich (0) vs Vorovitskaya, Anastasiya Romanovna (0)
+13         | 2          | Orlovskiy, Saveliy Romanovich (0) vs Glazunova, Kira Aleksandrovna (0)
+32         | 2          | Orlov, Timofey Nikolaevich (0) vs Balandin, Nikolay Nikolaevich (0)
+34         | 2          | Dvigun, Evgeniy (0) vs Romanenko, Vladimir Sergeevich (0)
+44         | 2          | Sedov, Aleksandr Andreevich (0) vs Balandin, Nikolay Nikolaevich (0)
+50         | 2          | Balandin, Nikolay Nikolaevich (0) vs Baytuganov, Vyacheslav Igorevich (0)
+56         | 2          | Raykov, Miron Georgievich (0) vs Nesonov, Bogdan (0)
+2          | 1          | Vorovitskaya, Anastasiya Romanovna (0) vs Nesonov, Bogdan (0)
+3          | 1          | Glazunova, Kira Aleksandrovna (0) vs Burov, Ilya Dmitrievich (0)
+14         | 1          | Orlov, Timofey Nikolaevich (0) vs Abramenkov, Sergey (0)
+15         | 1          | Sosin, Boris (0) vs Baytuganov, Vyacheslav Igorevich (0)
+28         | 1          | Pavlikhin, Dmitriy (0) vs Sedov, Aleksandr Andreevich (0)
+31         | 1          | Abramenkov, Sergey (0) vs Baytuganov, Vyacheslav Igorevich (0)
+40         | 1          | Vorovitskaya, Anastasiya Romanovna (0) vs Orlov, Timofey Nikolaevich (0)
+41         | 1          | Baytuganov, Vyacheslav Igorevich (0) vs Raykov, Georgiy Aleksandrovich (0)
+45         | 1          | Pavlikhin, Dmitriy (0) vs Kuzmenko, Oleg Olegovich (0)
+--------------------------------------------------------------------------------
+TOTAL BLUNDER LESSONS ACROSS ALL GAMES: 244
+================================================================================
+
+================================================================================
+                      FREQUENCY OF BLUNDER COUNTS
+================================================================================
+
+BLUNDERS PER GAME    | NUMBER OF GAMES
+--------------------------------------------------------------------------------
+1                    | 9
+2                    | 8
+3                    | 11
+4                    | 7
+5                    | 5
+6                    | 3
+7                    | 6
+8                    | 5
+9                    | 1
+10                   | 1
+14                   | 1
+--------------------------------------------------------------------------------
+TOTAL GAMES WITH BLUNDERS: 57
+================================================================================

@@ -1,0 +1,267 @@
+==================================================
+             CHESS OPENINGS SUMMARY REPORT
+==================================================
+Database: FIDE WSTC 2025
+Total Games Analyzed: 852
+
+--- TOP 10 MOST FREQUENT OPENINGS ---
+ 1. [] Unknown - 29 games (3.4%)
+ 2. [D02] 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4 - 26 games (3.1%)
+ 3. [B22] Sicilian: 2 c3 - 22 games (2.6%)
+ 4. [C54] Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3 - 21 games (2.5%)
+ 5. [B13] Caro-Kann: Exchange Variation and Panov-Botvinnik Attack - 19 games (2.2%)
+ 6. [B12] Caro-Kann: Advance Variation - 18 games (2.1%)
+ 7. [C01] French: Exchange Variation - 15 games (1.8%)
+ 8. [C02] French: Advance Variation - 14 games (1.6%)
+ 9. [B50] Sicilian: 2...d6, Miscellaneous - 14 games (1.6%)
+10. [C50] Hungarian Defence and Giuoco Pianissimo - 13 games (1.5%)
+
+
+========================================================================
+                        FREQUENCY OF OPENINGS
+========================================================================
+ECO   | Opening Name                                     | Count  | %    
+--------------------------------------------------------------------------
+      | Unknown                                          | 29     |  3.4%
+D02   | 1 d4 d5 2 Nf3 sidelines, including 2...Nf6...    | 26     |  3.1%
+B22   | Sicilian: 2 c3                                   | 22     |  2.6%
+C54   | Giuoco Piano: 4 c3 Nf6, main lines with 5 ...    | 21     |  2.5%
+B13   | Caro-Kann: Exchange Variation and Panov-Bo...    | 19     |  2.2%
+B12   | Caro-Kann: Advance Variation                     | 18     |  2.1%
+C01   | French: Exchange Variation                       | 15     |  1.8%
+C02   | French: Advance Variation                        | 14     |  1.6%
+B50   | Sicilian: 2...d6, Miscellaneous                  | 14     |  1.6%
+C50   | Hungarian Defence and Giuoco Pianissimo          | 13     |  1.5%
+B40   | Sicilian: 2...e6, Unusual lines                  | 12     |  1.4%
+C45   | Scotch Game                                      | 11     |  1.3%
+B07   | Pirc Defence: Miscellaneous Systems              | 11     |  1.3%
+C47   | Scotch Four Knights and Four Knights with ...    | 10     |  1.2%
+D00   | 1 d4 d5: Unusual lines                           | 10     |  1.2%
+B01   | Scandinavian Defence                             | 10     |  1.2%
+D35   | Queen's Gambit Declined: Exchange Variation      | 10     |  1.2%
+B23   | Closed Sicilian: Lines without g3                | 10     |  1.2%
+B11   | Caro-Kann: Two Knights Variation                 | 10     |  1.2%
+C42   | Petroff Defence: 3 Nxe5 and unusual White ...    | 9      |  1.1%
+B31   | Sicilian: 2...Nc6 3 Bb5 g6                       | 9      |  1.1%
+C56   | Two Knights: 4 d4 exd4 5 0-0 Nxe4                | 9      |  1.1%
+B21   | Sicilian: 2 f4 and Morra Gambit                  | 8      |  0.9%
+B33   | Sicilian: Pelikan and Sveshnikov Variations      | 8      |  0.9%
+B08   | Pirc Defence: Classical System                   | 8      |  0.9%
+C55   | Two Knights: 4 d3, 4 d4 exd4 5 e5 and Max ...    | 8      |  0.9%
+B30   | Sicilian: 2...Nc6 3 Bb5, lines without ...g6     | 8      |  0.9%
+B52   | Sicilian: Moscow Variation with 3...Bd7          | 7      |  0.8%
+B90   | Sicilian Najdorf: Unusual White 6th moves,...    | 7      |  0.8%
+B15   | Caro-Kann: 3 Nc3: 3...g6 and 3...dxe4 4 Nx...    | 7      |  0.8%
+B51   | Sicilian: Moscow Variation (3 Bb5+) withou...    | 7      |  0.8%
+D85   | Exchange Grünfeld: Unusual White 7th moves...    | 7      |  0.8%
+D38   | Queen's Gambit Declined: Ragozin Defence (...    | 7      |  0.8%
+A07   | Réti Opening: New York and Capablanca Systems    | 6      |  0.7%
+A45   | Trompowsky Attack                                | 6      |  0.7%
+E05   | Open Catalan: 5 Nf3 Be7                          | 6      |  0.7%
+C44   | Ponziani Opening and Scotch Gambit               | 6      |  0.7%
+D13   | Slav Defence: Exchange variation without ....    | 6      |  0.7%
+D46   | Semi-Slav: 5 e3 Nbd7 6 Bd3, Black avoids t...    | 6      |  0.7%
+B20   | Sicilian: Unusual White 2nd moves                | 6      |  0.7%
+B70   | Sicilian Dragon: 6 g3 and 6 Be2 (without a...    | 5      |  0.6%
+A48   | 1 d4 Nf6 2 Nf3 g6: Torre, London and Colle...    | 5      |  0.6%
+A22   | English Opening: 1...e5 2 Nc3 Nf6                | 5      |  0.6%
+C00   | French: Unusual White 2nd moves                  | 5      |  0.6%
+B76   | Sicilian Dragon: Yugoslav Attack, 9 g4 and...    | 5      |  0.6%
+C10   | French with 3 Nc3: Unusual Black 3rd moves...    | 5      |  0.6%
+B72   | Sicilian Dragon: 6 Be3, lines with h3+Bc4 ...    | 5      |  0.6%
+B45   | Sicilian Four Knights                            | 5      |  0.6%
+B32   | Sicilian: Löwenthal and Kalashnikov Variat...    | 5      |  0.6%
+E73   | King's Indian: Averbakh Variation without ...    | 5      |  0.6%
+D10   | Slav Defence: 3 cxd5 (without early Nf3) a...    | 5      |  0.6%
+D20   | Queen's Gambit Accepted: 3 e3 and 3 e4           | 5      |  0.6%
+D11   | Slav Defence: 3 Nf3 sidelines and 3...Nf6 ...    | 5      |  0.6%
+C26   | Vienna Game: 2...Nf6, sidelines                  | 5      |  0.6%
+C77   | Ruy Lopez: 3...a6 4 Ba4 Nf6, unusual lines       | 5      |  0.6%
+C30   | King's Gambit Declined                           | 5      |  0.6%
+D78   | Fianchetto Grünfeld: 6 0-0 c6                    | 5      |  0.6%
+D04   | Colle System                                     | 4      |  0.5%
+D37   | Queen's Gambit Declined: 5 Bf4                   | 4      |  0.5%
+D77   | Fianchetto Grünfeld: 6 0-0: Replies other ...    | 4      |  0.5%
+E61   | King's Indian: Early deviations for White,...    | 4      |  0.5%
+E13   | Queen's Indian/Nimzo-Indian hybrid: 4 Nc3 ...    | 4      |  0.5%
+C41   | Philidor Defence                                 | 4      |  0.5%
+C48   | Four Knights: 4 Bb5, replies other than 4....    | 4      |  0.5%
+C15   | French: 3 Nc3 Bb4: Unusual White 4th moves       | 4      |  0.5%
+C07   | French Tarrasch: 3...c5, 4 Ngf3 and 4 exd5...    | 4      |  0.5%
+B38   | Sicilian: Maroczy Bind with 5...Bg7 and 7....    | 4      |  0.5%
+A11   | English Opening: 1...c6                          | 4      |  0.5%
+A00   | Irregular Openings                               | 4      |  0.5%
+B27   | Sicilian: 2 Nf3, unusual Black 2nd moves         | 4      |  0.5%
+C11   | French: Classical System: 4 e5 and 4 Bg5 dxe4    | 4      |  0.5%
+A80   | Dutch Defence: Unusual White second moves        | 4      |  0.5%
+A46   | 1 d4 Nf6 2 Nf3 e6: Torre, London and Colle...    | 4      |  0.5%
+E12   | Queen's Indian: Unusual White 4th moves, 4...    | 4      |  0.5%
+D31   | Queen's Gambit Declined: Semi-Slav without...    | 4      |  0.5%
+C20   | 1 e4 e5: Unusual White second moves              | 3      |  0.4%
+C25   | Vienna Game: Alternatives to 2...Nf6             | 3      |  0.4%
+C29   | Vienna Game: 2...Nf6 3 f4                        | 3      |  0.4%
+E01   | Catalan: Early deviations                        | 3      |  0.4%
+D48   | Semi-Slav: Meran System: 7...b5 8 Bd3 a6         | 3      |  0.4%
+D32   | Tarrasch Defence: Sidelines and lines with...    | 3      |  0.4%
+C52   | Evans Gambit Accepted: 5 c3 Ba5                  | 3      |  0.4%
+C60   | Ruy Lopez: Unusual Black 3rd moves and 3...g6    | 3      |  0.4%
+E18   | Queen's Indian: Old Main Line (4 g3 Bb7 5 ...    | 3      |  0.4%
+E16   | Queen's Indian: 4 g3 Bb7 5 Bg2 Bb4+              | 3      |  0.4%
+E62   | King's Indian: Fianchetto: 6...c6 and Pann...    | 3      |  0.4%
+E60   | King's Indian: Unusual lines and Fianchett...    | 3      |  0.4%
+D34   | Tarrasch Defence: 6 g3 Nf6 7 Bg2 Be7             | 3      |  0.4%
+C49   | Four Knights: 4 Bb5 Bb4                          | 3      |  0.4%
+B10   | Caro-Kann: 2 d3 and 2 c4                         | 3      |  0.4%
+B18   | Classical Caro-Kann: 4...Bf5 sidelines           | 3      |  0.4%
+A29   | English Opening: Four Knights Variation wi...    | 3      |  0.4%
+A85   | Dutch Defence: 2 c4 Nf6 3 Nc3                    | 3      |  0.4%
+A18   | English Opening: Flohr-Mikenas System (1 c...    | 3      |  0.4%
+A03   | Bird's Opening with 1...d5                       | 3      |  0.4%
+A08   | King's Indian Attack                             | 3      |  0.4%
+B34   | Sicilian: Accelerated Dragon with 5 Nc3: s...    | 3      |  0.4%
+B48   | Sicilian: Taimanov: 5 Nc3 Qc7 6 Be3 a6 wit...    | 3      |  0.4%
+B26   | Closed Sicilian: 3 g3, lines with early Be3      | 3      |  0.4%
+A13   | English Opening: 1...e6                          | 2      |  0.2%
+A05   | Réti Opening: 1 Nf3 Nf6                          | 2      |  0.2%
+A20   | English Opening: 1...e5                          | 2      |  0.2%
+B80   | Sicilian Scheveningen: 6 g3 and 6 Be3, inc...    | 2      |  0.2%
+C04   | French Tarrasch: 3...Nc6                         | 2      |  0.2%
+C03   | French Tarrasch: Unusual Black 3rd moves         | 2      |  0.2%
+B43   | Sicilian: Kan Variation: 5 Nc3                   | 2      |  0.2%
+B42   | Sicilian: Kan Variation: 5 Bd3                   | 2      |  0.2%
+B25   | Closed Sicilian: 3 g3, lines without early...    | 2      |  0.2%
+B19   | Classical Caro-Kann: 4...Bf5 main line           | 2      |  0.2%
+B44   | Sicilian: Taimanov: 5 Nb5                        | 2      |  0.2%
+B96   | Sicilian Najdorf: 6 Bg5 e6 7 f4, lines oth...    | 2      |  0.2%
+B56   | Classical Sicilian: Unusual Lines                | 2      |  0.2%
+B53   | Sicilian: 2...d6: Lines with Qxd4                | 2      |  0.2%
+A57   | Benko/Volga Gambit                               | 2      |  0.2%
+A59   | Benko/Volga Gambit: White castles by hand        | 2      |  0.2%
+E97   | King's Indian: Classical Main Line (6...e5...    | 2      |  0.2%
+D36   | Queen's Gambit Declined: Exchange Variatio...    | 2      |  0.2%
+D52   | Queen's Gambit Declined: Cambridge Springs...    | 2      |  0.2%
+C70   | Ruy Lopez: 3...a6 4 Ba4, Norwegian and Del...    | 2      |  0.2%
+D30   | Queen's Gambit Declined: Systems without Nc3     | 2      |  0.2%
+E04   | Open Catalan: 5 Nf3                              | 2      |  0.2%
+D80   | Grünfeld: Unusual White 4th moves and 4 Bg5      | 2      |  0.2%
+D45   | Semi-Slav: 5 e3                                  | 2      |  0.2%
+A36   | Symmetrical English vs ...g6: 4 Bg2 Bg7          | 2      |  0.2%
+A26   | English Opening vs King's Indian with ...N...    | 2      |  0.2%
+B06   | Modern Defence                                   | 2      |  0.2%
+B02   | Alekhine's Defence: Chase Variation and li...    | 2      |  0.2%
+A37   | Symmetrical English vs ...g6: 4 Bg2 Bg7 5 Nf3    | 2      |  0.2%
+A16   | English Opening: 1...Nf6 with ...d5              | 2      |  0.2%
+A17   | English Opening: 1...Nf6 with ...Bb4             | 2      |  0.2%
+A21   | English Opening: 1...e5 2 Nc3                    | 2      |  0.2%
+C89   | Closed Ruy Lopez: Marshall Attack                | 2      |  0.2%
+D12   | Slav Defence: 3 Nf3 Nf6 4 e3 Bf5                 | 2      |  0.2%
+D05   | Colle System with ...e6                          | 2      |  0.2%
+C53   | Giuoco Piano sidelines                           | 2      |  0.2%
+C65   | Ruy Lopez: Berlin Defence (3...Nf6), unusu...    | 2      |  0.2%
+C62   | Ruy Lopez: Steinitz Defence                      | 2      |  0.2%
+C18   | French: 3 Nc3 Bb4: Main line: 7 h4 and 7 Qg4     | 2      |  0.2%
+C78   | Ruy Lopez: Archangelsk and Möller Defences       | 2      |  0.2%
+E36   | Nimzo-Indian: Classical: 4...d5 5 a3             | 2      |  0.2%
+E06   | Closed Catalan: Early deviations                 | 2      |  0.2%
+E91   | King's Indian: Classical: 6 Be2, unusual r...    | 2      |  0.2%
+B92   | Sicilian Najdorf: 6 Be2                          | 1      |  0.1%
+B91   | Sicilian Najdorf: 6 g3                           | 1      |  0.1%
+B86   | Sicilian Scheveningen/Najdorf: 6 Bc4, with...    | 1      |  0.1%
+B77   | Sicilian Dragon: Yugoslav Attack, 9 Bc4 si...    | 1      |  0.1%
+B81   | Sicilian Scheveningen: Keres Attack              | 1      |  0.1%
+A47   | 1 d4 Nf6 2 Nf3 b6: Torre, London and Colle...    | 1      |  0.1%
+A39   | Symmetrical English vs ...g6: 4 Bg2 Bg7 5 ...    | 1      |  0.1%
+A14   | English Opening: 1...e6 with b3 by White         | 1      |  0.1%
+A10   | English Opening: Unusual Replies for Black       | 1      |  0.1%
+A02   | Bird's Opening                                   | 1      |  0.1%
+A04   | Unusual lines after 1 Nf3 and King's India...    | 1      |  0.1%
+A06   | Réti Opening: 1 Nf3 d5                           | 1      |  0.1%
+A23   | English Opening: 1...e5 2 Nc3 Nf6 3 g3 c6        | 1      |  0.1%
+B66   | Sicilian: Richter-Rauzer: 7...a6 8 0-0-0 h6      | 1      |  0.1%
+B68   | Sicilian: Richter-Rauzer: 7...a6 8 0-0-0 B...    | 1      |  0.1%
+B62   | Sicilian: Richter-Rauzer: 6...e6: Unusual ...    | 1      |  0.1%
+B54   | Sicilian: 2...d6 3 d4 cxd4 4 Nxd4, Unusual...    | 1      |  0.1%
+B36   | Sicilian: Maroczy Bind: Gurgenidze System        | 1      |  0.1%
+B35   | Sicilian: Accelerated Dragon with 5 Nc3: m...    | 1      |  0.1%
+B41   | Sicilian: Kan Variation: 5 c4                    | 1      |  0.1%
+B46   | Sicilian: Taimanov: 5 Nc3 a6                     | 1      |  0.1%
+B09   | Pirc Defence: Austrian Attack                    | 1      |  0.1%
+B28   | Sicilian: 2 Nf3 a6 (O'Kelly Variation)           | 1      |  0.1%
+A40   | Unusual replies to 1 d4                          | 1      |  0.1%
+A41   | 1 d4 d6: Tartakower System and Modern Defence    | 1      |  0.1%
+A30   | Symmetrical English: Double Fianchetto and...    | 1      |  0.1%
+A31   | Symmetrical English: 2 Nf3 Nf6 3 d4              | 1      |  0.1%
+A33   | Symmetrical English: 2 Nf3 Nf6 3 d4 cxd4 4...    | 1      |  0.1%
+A35   | Symmetrical English: 2 Nc3 Nc6 3 Nf3             | 1      |  0.1%
+A67   | Modern Benoni: Taimanov Variation                | 1      |  0.1%
+A68   | Modern Benoni: Four Pawns Attack without 9...    | 1      |  0.1%
+A56   | Czech Benoni                                     | 1      |  0.1%
+A58   | Benko/Volga Gambit: Lines with 5 bxa6            | 1      |  0.1%
+B00   | Queen's Fianchetto Defence, Nimzowitsch De...    | 1      |  0.1%
+A96   | Classical Dutch: Fluid Systems: Early devi...    | 1      |  0.1%
+A90   | Dutch Defence: Miscellaneous and Modern St...    | 1      |  0.1%
+A88   | Dutch Defence: Leningrad System: 5 Nf3 0-0...    | 1      |  0.1%
+C10   | French with 3 Nc3: Unusual Black 3rd moves...    | 1      |  0.1%
+C09   | French Tarrasch: 3...c5 4 exd5 exd5 5 Ngf3...    | 1      |  0.1%
+B85   | Sicilian Scheveningen: 6 Be2 a6, lines wit...    | 1      |  0.1%
+D25   | Queen's Gambit Accepted: 4 e3: sidelines a...    | 1      |  0.1%
+D28   | Queen's Gambit Accepted: Classical main li...    | 1      |  0.1%
+D27   | Queen's Gambit Accepted: Classical main li...    | 1      |  0.1%
+D26   | Queen's Gambit Accepted: 4 e3 e6 5 Bxc5 c5...    | 1      |  0.1%
+D03   | 1 d4 d5 2 Nf3 Nf6 3 Bg5, including Torre A...    | 1      |  0.1%
+D04   | Unknown                                          | 1      |  0.1%
+C74   | Ruy Lopez: Deferred Steinitz: 5 c3 f5            | 1      |  0.1%
+C68   | Ruy Lopez: Exchange Variation, sidelines         | 1      |  0.1%
+C84   | Closed Ruy Lopez: Unusual White 6th moves        | 1      |  0.1%
+D23   | Queen's Gambit Accepted: 3 Nf3 Nf6 sidelines     | 1      |  0.1%
+D19   | Slav Defence: 5 a4 Bf5 6 e3: Main line wit...    | 1      |  0.1%
+D15   | Slav Defence: 4 Nc3 a6 and gambit lines af...    | 1      |  0.1%
+D01   | Veresov Opening                                  | 1      |  0.1%
+C67   | Ruy Lopez: Berlin Defence: 4 0-0 Nxe4            | 1      |  0.1%
+C71   | Ruy Lopez: Deferred Steinitz Variation, si...    | 1      |  0.1%
+C79   | Ruy Lopez: Steinitz-type lines with 3...a6...    | 1      |  0.1%
+C24   | Bishop's Opening: 2...Nf6                        | 1      |  0.1%
+C12   | French: Classical System: McCutcheon Varia...    | 1      |  0.1%
+C58   | Two Knights: 4 Ng5 d5 5 exd5 Na5 sidelines       | 1      |  0.1%
+C64   | Ruy Lopez: Classical Defence (3...Bc5) exc...    | 1      |  0.1%
+C13   | French: Classical System: 4 Bg5 Be7, Alekh...    | 1      |  0.1%
+C36   | King's Gambit Accepted: 3 Nf3 d5                 | 1      |  0.1%
+C34   | King's Gambit Accepted: 3 Nf3: 3...Nf6 and...    | 1      |  0.1%
+C23   | Bishop's Opening: 2...Bc5                        | 1      |  0.1%
+C66   | Ruy Lopez: Steinitz Defence                      | 1      |  0.1%
+C91   | Closed Ruy Lopez: 7...d6 8 c3 0-0 9 d4           | 1      |  0.1%
+C90   | Closed Ruy Lopez with 7...d6: Early deviat...    | 1      |  0.1%
+C92   | Closed Ruy Lopez: 9...Be6, Karpov and Floh...    | 1      |  0.1%
+D40   | Queen's Gambit Declined: Semi-Tarrasch wit...    | 1      |  0.1%
+D92   | Grünfeld: 4 Nf3 Bg7 5 Bf4                        | 1      |  0.1%
+D91   | Grünfeld: 4 Nf3 Bg7 5 Bg5                        | 1      |  0.1%
+D82   | Grünfeld: 4 Bf4                                  | 1      |  0.1%
+D56   | Queen's Gambit Declined: Lasker Defence          | 1      |  0.1%
+D61   | Queen's Gambit Declined: Classical: 7 Qc2        | 1      |  0.1%
+D58   | Queen's Gambit Declined: Tartakower Defence      | 1      |  0.1%
+D76   | Fianchetto Grünfeld: Main Line with 7...Nb6      | 1      |  0.1%
+D74   | Fianchetto Grünfeld: Main Line (5 Nf3 0-0 ...    | 1      |  0.1%
+D55   | Queen's Gambit Declined: 4 Bg5 Be7: Lines ...    | 1      |  0.1%
+D44   | Semi-Slav: Botvinnik System                      | 1      |  0.1%
+D50   | Queen's Gambit Declined: Dutch-Peruvian Ga...    | 1      |  0.1%
+D53   | Queen's Gambit Declined: 4 Bg5 Be7: Early ...    | 1      |  0.1%
+E11   | Bogo-Indian                                      | 1      |  0.1%
+E07   | Closed Catalan: Main Line (5 Nf3 0-0 6 0-0...    | 1      |  0.1%
+E10   | Blumenfeld Gambit                                | 1      |  0.1%
+E09   | Closed Catalan: Main Line: 7 Qc2 c6 8 Nbd2       | 1      |  0.1%
+E52   | Nimzo-Indian: Rubinstein: 4...0-0 5 Nf3 d5...    | 1      |  0.1%
+E49   | Nimzo-Indian: Rubinstein: 5 Bd3 d5 6 a3 Bx...    | 1      |  0.1%
+E44   | Nimzo-Indian: Rubinstein: 4...b6 5 Ne2           | 1      |  0.1%
+E41   | Nimzo-Indian: Rubinstein: 4...c5 5 Bd3, in...    | 1      |  0.1%
+E20   | Nimzo-Indian: 4 g3 and 4 f3                      | 1      |  0.1%
+E17   | Queen's Indian: 4 g3 Bb7 5 Bg2 Be7               | 1      |  0.1%
+E66   | King's Indian: Fianchetto: 6...c5 7 0-0 Nc...    | 1      |  0.1%
+E65   | King's Indian: Fianchetto: 6...c5 7 0-0 wi...    | 1      |  0.1%
+E69   | King's Indian: Fianchetto: 6...Nbd7 7 0-0 ...    | 1      |  0.1%
+E68   | King's Indian: Fianchetto: 6...Nbd7 7 0-0 ...    | 1      |  0.1%
+E67   | King's Indian: Fianchetto: 6...Nbd7              | 1      |  0.1%
+E70   | King's Indian: Miscellaneous lines with 4 ...    | 1      |  0.1%
+E76   | King's Indian: Four Pawns Attack: Lines sp...    | 1      |  0.1%
+E72   | King's Indian: 4 e4 d6 5 g3                      | 1      |  0.1%
+E87   | King's Indian: Sämisch: 6...e5 7 d5              | 1      |  0.1%
+E81   | King's Indian: Sämisch: 6th move deviation...    | 1      |  0.1%
