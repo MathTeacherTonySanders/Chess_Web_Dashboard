@@ -104,7 +104,7 @@ def load_synopses_dict(current_db_name):
 
 
 @st.cache_data
-def load_player_roster(file_path="data/Player_Roster.xlsx"):
+def load_player_roster(file_path="data/player_roster.xlsx"):
     try:
         if os.path.exists(file_path):
             df = pd.read_excel(file_path)
