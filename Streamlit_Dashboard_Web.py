@@ -825,7 +825,7 @@ def main():
             black_linked = make_clickable_name(meta['black_player'])
             
 # Display the linked names alongside their Elos
-            st.subheader(f"{white_linked} ({int(meta['white_elo'])}) vs {black_linked} ({int(meta['black_elo'])})")
+            st.markdown(f"### {white_linked} ({int(meta['white_elo'])}) vs {black_linked} ({int(meta['black_elo'])})", unsafe_allow_html=True)
             
             # --- NEW: EXECUTIVE SUMMARY (Graph + Synopsis Side-by-Side) ---
             exec_col1, exec_col2 = st.columns(2)
